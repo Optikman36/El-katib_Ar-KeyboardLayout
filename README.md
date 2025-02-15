@@ -8,10 +8,12 @@ How to use it:
 
 2- extract the file
 
-3- in the folder you will find setup.exe, run it.
+3- in the folder you will find setup.exe >>>>  run it
 
-4- follow the steps to the end until finish
+4- follow the steps to the end setup until finish
 
 5- it's recommended to restart the computer
+
+
 
 Notice: You can switch keyboard by pressing>>  Windows + Space
