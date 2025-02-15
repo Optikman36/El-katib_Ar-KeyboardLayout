@@ -9,4 +9,4 @@ How to use it:
 4- follow the steps to the end until finish
 5- it's recommended to restart the computer
 
-Notice: You can switch keyboard by pressing Windows + Space
+Notice: You can switch keyboard by pressing Windows + Space=
